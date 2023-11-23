@@ -5,8 +5,8 @@ MeloDex is an android app that functions by capturing and analyzing internal aud
 It effectively identifies the audio being played and offers convenient links to Spotify, YouTube, and the web for further exploration.
 
 ## Features
-- Song Recognition: Identify songs by capturing audio samples.
-- Integration: Utilizes the ACR Cloud API for accurate music recognition.
+- **Song Recognition:** Identify songs by capturing audio samples.
+- **Integration:** Utilizes the ACR Cloud API for accurate music recognition.
 - Service: Runs a foreground service for continuous song identification.
 - Quick Links: Provides a quick link to search for recognized songs on Google, Youtube, and Spotify.
 - User Interface: Simple and intuitive interface for easy interaction.
