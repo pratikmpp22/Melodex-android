@@ -28,28 +28,20 @@ app/src/main
 
 
 ## Project Flow
-1. **Initiate Audio Recording:**
-   - Commence the audio recording process to capture the target song.
+1. **Initiate Audio Recording:** Commence the audio recording process to capture the target song.
      
-2. **Save Audio in PCM Format:**
-   - Save the recorded audio in PCM format, preserving the raw audio data in an uncompressed state for optimal quality.
+2. **Save Audio in PCM Format:** Save the recorded audio in PCM format, preserving the raw audio data in an uncompressed state for optimal quality.
 
-3. **Convert to WAV Format:**
-   - Convert the PCM audio file into WAV format, a supported format for ACR Cloud's efficient audio recognition.
+3. **Convert to WAV Format:** Convert the PCM audio file into WAV format, a supported format for ACR Cloud's efficient audio recognition.
 
-4. **Submit to ACR Cloud:**
-   - Transmit the WAV file to ACR Cloud for audio recognition.
+4. **Submit to ACR Cloud:** Transmit the WAV file to ACR Cloud for audio recognition.
 
-5. **Song Identification:**
-   - ACR Cloud accurately identifies the song and returns the results in a structured JSON format.
+5. **Song Identification:** ACR Cloud accurately identifies the song and returns the results in a structured JSON format.
 
-6. **Parse JSON Data:**
-   - Parse the JSON data into a comprehensible object, extracting details like song ID and title.
+6. **Parse JSON Data:** Parse the JSON data into a comprehensible object, extracting details like song ID and title.
 
-7. **Platform Integration:**
-   - Dynamically generate links for popular platforms (Google, Spotify, YouTube) based on the retrieved information.
+7. **Platform Integration:** Dynamically generate links for popular platforms (Google, Spotify, YouTube) based on the retrieved information.
 
-8. **Explore Recognized Song:**
-   - If the respective app is installed, use Android Intents to open the song directly in the app. If not, provide web links for seamless exploration on the default browser.
+8. **Explore Recognized Song:** If the respective app is installed, use Android Intents to open the song directly in the app. If not, provide web links for seamless exploration on the default browser.
 
 
