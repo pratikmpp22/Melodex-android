@@ -22,7 +22,6 @@ It effectively identifies the audio being played and offers convenient links to 
    - Let the audio play for a few seconds.
 4. **Identify the Song:**
    - Click on the pause button to stop capturing audio and identify the song.
-5. **View Song Details:**
-   - Once the song is identified, view the recognized song details on the app.
-6. **Explore Links:**
-   - Access additional information by clicking on Google or Spotify links associated with the recognized song.
+5. **Explore Recognized Song Details:**
+   - Once the song is identified, view it on Google, Spotify, or YouTube using the provided links, wherever it is available.
+
