@@ -24,4 +24,6 @@ It effectively identifies the audio being played and offers convenient links to 
    - Click on the pause button to stop capturing audio and identify the song.
 5. **Explore Recognized Song Details:**
    - Once the song is identified, view it on Google, Spotify, or YouTube using the provided links, wherever it is available.
-
+app/src/main
+## Architecture Overview
+![Alt text](app/src/main/ACR_ARCH_melodex.png)
