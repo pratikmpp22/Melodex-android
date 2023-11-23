@@ -1,5 +1,17 @@
 # Melodex: Identify Songs with Ease
 
+## Navigation
+
+- [Overview](#overview)
+- [Features](#features)
+- [Usage](#usage)
+- [Project Flow](#project-flow)
+- [Installation](#installation)
+- [Found a Bug or Want to Contribute?](#found-a-bug-or-want-to-contribute)
+- [Show Your Support](#show-your-support)
+- [License](#license)
+- [Contact](#contact)
+
 ## Overview
 MeloDex is an android app that functions by capturing and analyzing internal audio from various applications such as Instagram reels and YouTube shorts. 
 It effectively identifies the audio being played and offers convenient links to Spotify, YouTube, and the web for further exploration.
@@ -57,10 +69,10 @@ app/src/main
 3. Before executing, perform the following setup:
 
    - **ACR Cloud Integration:**
-     - Sign up for ACR Cloud to obtain secret keys, access keys, and host information for audio recognition.
+     - Sign up for [ACR Cloud](https://www.acrcloud.com/) to obtain secret keys, access keys, and host information for audio recognition.
 
    - **Firebase Setup:**
-     - Configure your Firebase app and place the `google-services.json` file at the root directory of your project.
+     - Configure your [Firebase app](https://firebase.google.com/) and place the `google-services.json` file at the root directory of your project.
 
    - **Firebase Realtime Database:**
      - Create a Firebase Realtime Database to store necessary data, as shown in the architecture overview.
@@ -77,5 +89,20 @@ app/src/main
 
 4. You are all set to launch the project.
 
+## Found a Bug or Want to Contribute?
+If you've encountered an issue or have a suggestion for improvement, your feedback is always welcome. Feel free to [open an issue](https://github.com/pratikmpp22/AES-Encrypted-File-Transfer-over-Tor/issues
+) on the GitHub repository.
+
+
+## Show Your Support
+If you find this project useful or appreciate the work done, consider leaving a star on the GitHub repository. Your support motivates me to continue improving and maintaining the project.
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
+## Contact
+For questions or feedback, feel free to [email me](patilmpratik456@gmail.com).
 
 
