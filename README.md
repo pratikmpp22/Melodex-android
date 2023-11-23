@@ -103,6 +103,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contact
-For questions or feedback, feel free to [email me](patilmpratik456@gmail.com).
+For questions or feedback, feel free to [email me](mailto:patilmpratik456@gmail.com).
 
 
