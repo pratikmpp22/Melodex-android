@@ -13,7 +13,7 @@ It effectively identifies the audio being played and offers convenient links to 
 
 ## Usage
 
-1. **Grant Permissions:** Ensure Melodex has the necessary permissions for audio and overlay access on your device.
+1. **Grant Permissions:* Ensure Melodex has the necessary permissions for audio and overlay access on your device.
 
 2. **Initiate Song Recognition:**
    - Tap the "Allow Casting" button to start the song recognition process.
