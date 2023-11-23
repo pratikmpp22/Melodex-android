@@ -90,7 +90,7 @@ app/src/main
 4. You are all set to launch the project.
 
 ## Found a Bug or Want to Contribute?
-If you've encountered an issue or have a suggestion for improvement, your feedback is always welcome. Feel free to [open an issue](https://github.com/pratikmpp22/AES-Encrypted-File-Transfer-over-Tor/issues
+If you've encountered an issue or have a suggestion for improvement, your feedback is always welcome. Feel free to [open an issue](https://github.com/pratikmpp22/Melodex-android/issues
 ) on the GitHub repository.
 
 
