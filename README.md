@@ -6,7 +6,7 @@
 - [Features](#features)
 - [Usage](#usage)
 - [Project Flow](#project-flow)
-- [Installation](#installation)
+- [Setup](#setup)
 - [Found a Bug or Want to Contribute?](#found-a-bug-or-want-to-contribute)
 - [Show Your Support](#show-your-support)
 - [License](#license)
@@ -56,7 +56,7 @@ app/src/main
 
 8. **Explore Recognized Song:** If the respective app is installed, use Android Intents to open the song directly in the app. If not, provide web links for seamless exploration on the default browser.
 
-## Installation
+## Setup
 
 1. Clone this repository:
 
