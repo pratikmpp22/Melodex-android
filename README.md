@@ -44,4 +44,38 @@ app/src/main
 
 8. **Explore Recognized Song:** If the respective app is installed, use Android Intents to open the song directly in the app. If not, provide web links for seamless exploration on the default browser.
 
+## Installation
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/pratikmpp22/Melodex-android.git
+    ```
+
+2. Open the project folder in Android Studio.
+
+3. Before executing, perform the following setup:
+
+   - **ACR Cloud Integration:**
+     - Sign up for ACR Cloud to obtain secret keys, access keys, and host information for audio recognition.
+
+   - **Firebase Setup:**
+     - Configure your Firebase app and place the `google-services.json` file at the root directory of your project.
+
+   - **Firebase Realtime Database:**
+     - Create a Firebase Realtime Database to store necessary data, as shown in the architecture overview.
+
+     ```json
+     {
+       "secret_keys": {
+         "access_key": "your_access_key",
+         "host": "identify-ap-your_location",
+         "secret_key": "your_secret_key"
+       }
+     }
+     ```
+
+4. You are all set to launch the project.
+
+
 
